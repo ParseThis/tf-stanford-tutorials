@@ -1,6 +1,6 @@
 
 *.pdf
-
+/data
 *.SUNet
 *.pyc
 
@@ -12,3 +12,4 @@ examples/chatbot/checkpoints/*
 examples/chatbot/data_analysis.py
 
 assignments/chatbot/processed/*
+/logs
